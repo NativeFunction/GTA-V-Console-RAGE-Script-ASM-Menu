@@ -1,3 +1,4 @@
+//This script requires a stack size of 2048
 SetStaticsCount 748
 SetDefaultStatic 5 1//cursor index
 SetDefaultStatic 6 1//item count index
